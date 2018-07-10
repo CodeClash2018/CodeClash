@@ -58,7 +58,6 @@
                                 <span><i class="fa fa-fax"></i> +00 425 356 4518</span>
                             </li>
                             <li>
-                                <span><i class="fa fa-envelope"></i> info@codeclash.com</span>
                                 <span><i class="fa fa-paper-plane-o"></i> www.codeclash.com</span>
                             </li>
                         </ul>
@@ -146,7 +145,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-12">
-                                <h2><span>We Are </span> Everyone’s Codebuzz Agency</h2>
+                                <h2>Coding was never this fun..!!</h2>
                                 <p>There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form randomised words which don't look even slightly believable.</p>
                                 <ul>
                                     <?php
